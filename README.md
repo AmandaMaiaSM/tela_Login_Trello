@@ -44,6 +44,10 @@ FOMULARIO/
 - Implementar uma **versão com backend** para armazenar os dados do login
 
 ---
+## Resultado final
+![image](https://github.com/user-attachments/assets/cf91e3e8-24a0-4471-9984-15b4b04c5e4e)
+
+---
 
 ## 📜 Licença
 Este projeto é livre para uso e modificação. Sinta-se à vontade para contribuir! 😊
